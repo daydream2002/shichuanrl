@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2cc9b377-5845-402a-92df-c6c02b8f8f83" name="node4-sichuangm_mj_rl_v3_suphx-master" url="http:///">
+        <fileTransfer rootFolder="/home/tonnn/.nas/.xiu/works/node6-sichuang_mj_rl_v3_suphx-master" accessType="SFTP" host="10.0.10.204" port="22" sshConfigId="cddafcaf-5491-4e9c-aafc-e4a7f4aa2c7b" sshConfig="tonnn@10.0.10.204:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
